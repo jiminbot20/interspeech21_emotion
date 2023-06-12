@@ -1,3 +1,8 @@
+# 코드 재현
+
+- iemocap 폴더에 생성된 csv 파일에 자신의 데이터셋 경로에 맞게 수정 필요
+ex) /home/emotion/datasets/IEMOCAP_full_release/wavs/Ses01F_impro01_F001.wav,e0,"YEAH ."
+
 # Emotion Recognition
 This repo contains the code for the paper: 
 
